@@ -11,3 +11,9 @@
 - Once you open source something, do you want to commit to coding in open on project or continue to code internally and share with OSS?
 - Can you share issues and pull requests explaining the reason why you wrote the code?
 - Are you ready to lose the flexibility to experiment internally without having to take risks in public?
+
+```
+    Customize the template in this pull request to reflect the aspects of project health that are important for your team members to consider.
+    Add a checklist per your internal processes.
+    When you're ready to move on, merge this pull request.
+```
