@@ -1,6 +1,6 @@
 ## Open Source License Policy
 
-### Our Preferred Licenses
+### Preferred Licenses
 
 - For software projects, we use xx
 - For documentation projects, we use yy
